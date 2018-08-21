@@ -10,6 +10,16 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.HashSet;
 import java.util.Set;
+// we need to extract :
+// departure airport
+//arrival airport
+//connection airport
+//departure time
+//arrival time
+//cheapest prices
+// taxes
+//departure date 2018-09-03
+//returning date 2018-09-09
 
 
 public class WebCrawlerTask2 {
